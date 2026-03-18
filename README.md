@@ -1,9 +1,10 @@
-🚗 Car Crash Detection System using YOLO
-📌 Project Overview
+ Car Crash Detection System using YOLO
+
+      Project Overview
 
 This project is an AI-based Car Crash Detection System that uses the powerful object detection model YOLO to identify car accidents in real-time from video streams or recorded footage. The system aims to enhance road safety by enabling faster detection and response to accidents.
 
-⚙️ Technologies Used
+        Technologies Used
 
 Python
 
@@ -15,7 +16,7 @@ NumPy
 
 Deep Learning / Computer Vision
 
-🧠 How It Works
+        How It Works
 
 Video input is taken from a camera or uploaded file
 
@@ -29,7 +30,7 @@ System flags the event as a car crash
 
 Output is displayed with bounding boxes and alerts
 
-🚀 Features
+        Features
 
 Real-time crash detection
 
@@ -41,7 +42,7 @@ Visual alerts with bounding boxes
 
 Scalable for smart city / surveillance systems
 
-📊 Applications
+        Applications
 
 Smart traffic monitoring
 
@@ -51,7 +52,7 @@ Autonomous driving safety
 
 Insurance claim verification
 
-🧪 Results
+            Results
 
 Successfully detects crash events in test videos
 
@@ -59,7 +60,7 @@ Provides visual output with labeled frames
 
 Improves response time for accident detection
 
-🔮 Future Enhancements
+         Future Enhancements
 
 Integration with alert systems (SMS / email)
 
